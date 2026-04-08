@@ -29,10 +29,10 @@ cd src
 python detect.py
 
 ## 📷 Detection Output
-![Output](images/output/val_batch0_pred.jpg)
+![Output](val_batch0_pred.jpg)
 
 ## 📊 Training Results
-![Results](images/output/results.png)
+![Results](results.png)
 
 ## 📉 Confusion Matrix
-![Confusion](images/output/confusion_matrix.png)
+![Confusion](confusion_matrix.png)
